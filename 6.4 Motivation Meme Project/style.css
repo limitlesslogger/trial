@@ -1,0 +1,29 @@
+body
+{
+    background-color: black;
+}
+h1
+{
+    font-family: "Libre Baskerville", serif;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+img
+{
+    border:5px solid wheat;
+    width:100%;
+    /* margin:30px 25%; */
+}
+p
+{
+    text-align: center;
+    color: aliceblue;
+}
+div
+{
+    width:50%;
+    /* align-items: center; */
+    margin: 5% 25%;
+}
+/* we made width of img 100% so that it fills the div also div we have given 50% which is 50% of window and rest 50% divided by 2 ie 25% is given as margin so that it is centered */
